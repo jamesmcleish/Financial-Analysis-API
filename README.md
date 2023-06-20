@@ -4,4 +4,5 @@
 <code> python3 -m venv env </code>
 <code> source env/bin/activate</code>
 
-<li> pip3 install Flask </li>
+<h3> packages <h3>
+<code> pip3 install Flask </code>
